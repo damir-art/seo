@@ -5,7 +5,13 @@
 
 - Справка Вебмастер.Яндекс: https://yandex.ru/support/webmaster/index.html
 - Вебмастер.Яндекс: https://webmaster.yandex.ru/sites/
+- Справка Гугл Поиска: https://developers.google.com/search?hl=ru
 
 ## Ссылки
 - https://blog.promopult.ru/
+- https://pr-cy.ru/news/
 - https://vc.ru/seo/574761-seo-prodvizhenie-novogo-sayta-poshagovoe-rukovodstvo
+
+## Интересное
+- https://pr-cy.ru/news/p/9953-kak-napisat-tekst-na-sayt-s-pomoshchyu-neyroseti--ispolzuem-chatgpt-dlya-sozdaniya-kontenta
+- https://pr-cy.ru/news/p/10001-kak-sozdat-blog-na-sayte-i-prodvigatsya-s-pomoshchyu-kontenta-polnaya-poshagovaya-instruktsiya
