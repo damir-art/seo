@@ -19,3 +19,4 @@
 
 ### Блог Яндекса
 - Сервис товары и цены закрывается (куча негативных отзывов) - https://webmaster.yandex.ru/blog/registratsiya-v-programme-tovary-i-tseny-zakryvaetsya/
+- https://seoquick.com.ua/blog/
