@@ -2,6 +2,9 @@
 - https://letsearch.ru/ - анализ конкурентов
 - https://vc.ru/u/304035-promopult-team - статьи PromoPult team
 
+## Ютуберы
+- https://www.youtube.com/watch?v=a5Ji9b7OCr0&list=PLkqzPnAR63u4POuP0X9UchWDBhUfAWs5s
+
 ## Гугл
 - Запрос повторного сканирования страниц от Гугл: https://developers.google.com/search/docs/crawling-indexing/ask-google-to-recrawl?hl=ru
 
